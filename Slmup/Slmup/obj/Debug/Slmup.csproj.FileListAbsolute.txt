@@ -1,0 +1,10 @@
+C:\Users\sonal\source\repos\Slmup\Slmup\bin\Debug\Slmup.exe.config
+C:\Users\sonal\source\repos\Slmup\Slmup\bin\Debug\Slmup.exe
+C:\Users\sonal\source\repos\Slmup\Slmup\bin\Debug\Slmup.pdb
+C:\Users\sonal\source\repos\Slmup\Slmup\obj\Debug\Slmup.csprojAssemblyReference.cache
+C:\Users\sonal\source\repos\Slmup\Slmup\obj\Debug\Slmup.Form1.resources
+C:\Users\sonal\source\repos\Slmup\Slmup\obj\Debug\Slmup.Properties.Resources.resources
+C:\Users\sonal\source\repos\Slmup\Slmup\obj\Debug\Slmup.csproj.GenerateResource.cache
+C:\Users\sonal\source\repos\Slmup\Slmup\obj\Debug\Slmup.csproj.CoreCompileInputs.cache
+C:\Users\sonal\source\repos\Slmup\Slmup\obj\Debug\Slmup.exe
+C:\Users\sonal\source\repos\Slmup\Slmup\obj\Debug\Slmup.pdb
